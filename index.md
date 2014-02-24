@@ -2,7 +2,7 @@
 title: Home Page
 ---
 
-Hello World
+# Hello World
 
 <ul>
 {% for post in site.posts %}
