@@ -2,146 +2,113 @@
 title: Home Page
 ---
 
+<!DOCTYPE HTML>
 
 <head>
 
-<!-- START COPYING HERE -->
-<link rel="stylesheet" href="gh-fork-ribbon.css">
-<!--[if lt IE 9]>
-<link rel="stylesheet" href="gh-fork-ribbon.ie.css">
-<![endif]-->
-<!-- END COPYING HERE -->
-
-<style>
-body {background-color:Grey; margin-top:45px; margin-left:0px; margin-right:0px;  }
-div.pagestripe { background-color:White;  width:100%; box-shadow:0px 5px 5px black; }
-div.pageheader { display: table; width:90%; margin: auto; text-align:center; padding: 10px; }
-div.examplebox {  display: table-cell; width:30%;  vertical-align: middle; text-align: left; padding-right:10px; }
-div.examplesource { display: table-cell; }
-h1.chaiscript {text-align:center; color:white; text-shadow:0px 0px 3px black; }
-
-div.aboutrow { width:95%; display: table;  margin: auto;  padding:5px; }
-div.aboutbox { display: table-cell; padding: 5px; width:33%;} 
-div.aboutdata { display: table-cell; background:White; padding: 10px; border-radius: 5px; box-shadow:5px 5px 5px black}
-.aboutheader { margin-top: 0px; width:100%; text-align:center;}
-
-div.likebuttons {display: table; float: right; position: absolute; top: 0;}
-div.likebutton {display: table-cell; }
-
-.button { background:Blue; color:white; border-radius: 5px; font-size:large; border-top:1px black; width:50%; padding:5px; text-shadow:0px 0px 3px black; border:1px black; margin-top: 10px;}
-
-</style>
-
+{% include common.html %}
 
 </head>
 
 
 <body>
-<!-- TOP RIGHT RIBBON: START COPYING HERE -->
-<div class="github-fork-ribbon-wrapper right">
-  <div class="github-fork-ribbon">
-    <a href="https://github.com/ChaiScript/ChaiScript">Fork me on GitHub</a>
+
+{% include header.html %}
+
+<div class="jumbotron cs-blue">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h1>ChaiScript</h1>
+        <p>an easy to use embedded scripting language for C++.</p>
+        <a class="btn btn-default btn-lg "href="/releases.html">Download</a>
+      </div>
+      <div class="col-md-8">
+        {% gist 9190735 %}
+      </div>
+    </div>
   </div>
 </div>
 
 
-  <div class="likebuttons">
-    <div class="likebutton">
-      <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark" ><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
-      <!-- Please call pinit.js only once per page -->
-      <script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
-    </div>
 
-    <div class="likebutton">
-      <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://chaiscript.com" data-via="lefticus" data-lang="en">Tweet</a>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-    </div>
-
-    <div class="likebutton">
-      <!-- Place this tag where you want the +1 button to render. -->
-      <div class="g-plusone" data-size="medium"></div>
-
-      <!-- Place this tag after the last +1 button tag. -->
-      <script type="text/javascript">
-(function() {
- var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
- po.src = 'https://apis.google.com/js/platform.js';
- var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
- })();
-      </script>
-    </div>
-
-    <div class="likebutton">
-      <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fchaiscript.com&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
-    </div>
-
-  </div>
-
-
-
-<div class="pagestripe">
-  <div class="pageheader">
-    <div class="examplebox">
-      <h1>ChaiScript</h1>
-      an easy to use embedding scripting language for C++.
-      <br/>
-
-      <button onclick="parent.location='https://github.com/ChaiScript/ChaiScript/releases'" class="button">Releases</button> 
-      <button onclick="parent.location='examples.html'" class="button">Examples</button> 
-      <button onclick="parent.location='releases.html'" class="button">Documentation</button> 
-    </div>
-    <div class="examplesource" > {% gist 9190735 %} </div>
-  </div>
-
+<div class="well well-lg">
+  <h2>ChaiScript is...</h2>
 </div>
 
-<h1 class="chaiscript">
-  ChaiScript is...
-</h1>
 
-<div class="aboutrow">
-  <div class="aboutbox">
-    <div class="aboutdata">
-      <h2 class="aboutheader">Succinct</h2>
-      The above is a complete example of exposing a function to ChaiScript, calling it with a parameter and returning a value.
+<div class="container">
+  <div class="row">
+
+    <div class="col-md-4">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Succinct</h3>
+        </div>
+        <div class="panel-body">
+          The above is a complete example of exposing a function to ChaiScript, calling it with a parameter and returning a value.
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Header Only</h3>
+        </div>
+        <div class="panel-body">
+          There are no external tools requied, no preprocessor, no libraries, just your C++11 compliant compiler.
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Free</h3>
+        </div>
+        <div class="panel-body">
+          ChaiScript is licensed with the BSD license and is free to use in your free or commercial projects.  
+        </div>
+      </div>
     </div>
   </div>
-  <div class="aboutbox">
-    <div class="aboutdata">
-      <h2 class="aboutheader">Header Only</h2>
-      There are no external tools requied, no preprocessor, no libraries, just your C++11 compliant compiler.
+
+  <div class="row">
+
+    <div class="col-md-4">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Stable</h3>
+        </div>
+        <div class="panel-body">
+          ChaiScript has been making stable releases since 2009. No bugfix or feature is made without a corresponding unit test.
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Thread Safe</h3>
+        </div>
+        <div class="panel-body">
+          By default ChaiScript is thread safe. Thread safety can be disabled for enhanced performance.
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Portable</h3>
+        </div>
+        <div class="panel-body">
+          ChaiScript is fully tested for 32bit and 64bit on Windows (MSVC2013), clang++ and g++.
+        </div>
+      </div>
     </div>
   </div>
-  <div class="aboutbox">
-    <div class="aboutdata">
-      <h2 class="aboutheader">Free</h2>
-      ChaiScript is licensed with the BSD license and is free to use in your free or commercial projects.  
-    </div>
-  </div> 
 </div>
-
-<div class="aboutrow">
-  <div class="aboutbox">
-    <div class="aboutdata">
-      <h2 class="aboutheader">Stable</h2>
-      ChaiScript has been making stable releases since 2009. No bugfix or feature is made without a corresponding unit test.
-    </div>
-  </div>
-  <div class="aboutbox">
-    <div class="aboutdata">
-      <h2 class="aboutheader">Thread Safe</h2>
-      By default ChaiScript is thread safe. Thread safety can be disabled for enhanced performance.
-    </div>
-  </div>
-  <div class="aboutbox">
-    <div class="aboutdata">
-      <h2 class="aboutheader">Portable</h2>
-      ChaiScript is fully tested for 32bit and 64bit on Windows (MSVC2013), clang++ and g++.
-    </div>
-  </div> 
-</div>
-
 
 </body>
-
-
