@@ -1,0 +1,29 @@
+---
+title: Release 5.3.0
+tags: release
+---
+## [Release 5.3.0](https://github.com/ChaiScript/ChaiScript/releases/tag/Release-5.3.0 "Release 5.3.0")
+
+Note, with this version the C++11 version of ChaiScript has become the official version, and the boost version of ChaiScript will see very little if any future development.
+
+### Changes since 5.2.0
+
+  * Official support for MSVC with C++11. All major platforms and compilers are now support for C++11 release
+  * Enhanced unit tests
+  * Add `continue` statement, fix various use cases for `for`  loops
+  * Fix use of suffixed numbers in vector initialization
+  * Code cleanups
+  * Eliminate global data, which makes code more portable and thread safe
+  * Fix issue #79
+  * Merge pretty_print fixes from @mgee #82
+  * Compiler warning fixes for latest compiler releases
+  * Fix threading problems
+  * Fix linking error on MacOS Mavericks #88
+  * Allow non-const globals
+  * Make sure user cannot name a variable with `::` in it #91
+  * Fix various string / map / vector `size` and `count` calls for compilers which have weird overloads for them. #90 #93 #95
+  * Make module search path relative to the currently running executable
+  * Build and work with wstring windows builds
+  * fix for some new line cases in the middle of a vector initialization from jespada
+
+
