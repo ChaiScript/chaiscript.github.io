@@ -1,0 +1,29 @@
+---
+title: Release 4.3.0
+tags: release
+---
+## [Release 4.3.0](https://github.com/ChaiScript/ChaiScript/releases/tag/Release-4.3.0 "Release 4.3.0")
+
+Note: this is scheduled to be the last release that requires boost, new releases
+after this will require a C++11 compiler.
+Changes since 4.2.0
+
+ - Enhanced unit tests
+ - Add continue statement, fix various use cases for for loops
+ - Fix use of suffixed numbers in vector initialization
+ - Code cleanups
+ - Eliminate global data, which makes code more portable and thread safe
+ - Fix issue #79
+ - Merge pretty_print fixes from @mgee #82
+ - Compiler warning fixes for latest compiler releases
+ - Fix threading problems
+ - Fix linking error on MacOS Mavericks #88
+ - Allow non-const globals
+ - Make sure user cannot name a variable with :: in it #91
+ - Fix various string / map / vector size and count calls for compilers which have weird overloads for them. #90 #93 #95
+ - Make module search path relative to the currently running executable
+ - Build and work with wstring windows builds
+
+
+
+

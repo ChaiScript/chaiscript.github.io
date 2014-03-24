@@ -6,9 +6,8 @@ title: Releases
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
 <head>
-
+<title>ChaiScript - Official releases.</title>
 {% include common.html %}
-
 </head>
 
 
@@ -16,15 +15,21 @@ title: Releases
 
 {% include header.html %}
 
-<div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Releases</h3>
-  </div>
-  <div class="panel-body">
-    Releases are officially managed on <a href="https://github.com/ChaiScript/ChaiScript/releases">github</a>.
-  </div>
+<div class="well well-sm">
+  <h3>Releases are officially managed on <a href="https://github.com/ChaiScript/ChaiScript/releases">github</a>.</h3>
+
+  Github is the authoritative list, this list is provided for reference.
 </div>
 
+<div class="body-with-margin">
 
+  {% assign posts = site.tags.release %}
+
+  {% for post in posts %}
+
+  {{ post.content}}
+
+  {% endfor %}
+</div>
 
 </body>

@@ -7,6 +7,7 @@ title: Examples
 
 <head>
 
+<title>ChaiScript - Examples.</title>
 {% include common.html %}
 
 </head>
@@ -16,43 +17,38 @@ title: Examples
 
 {% include header.html %}
 
+<div class="well well-sm">
+  <h3>Easy to follow complete examples.</h3>
+
+  For more examples, look at the unittests folder in <a href="https://github.com/ChaiScript/ChaiScript/tree/master/unittests">source control</a>. The unittests cover every feature of ChaiScript.
+</div>
+
 {% assign posts = site.tags.example | sort: 'id' %}
 
-<div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Examples</h3>
-  </div>
-  <div class="panel-body">
-    <ul>
-      {% for post in posts %}
-      <li>
-      <a href="#{{ post.title | replace: ' ', '_' }}" onclick="$('#{{ post.title | replace: ' ', '_' }}').collapse('show'); window.location.hash = '#{{ post.title | replace: ' ', '_' }}';">{{ post.title }}</a>
-      </li>
-      {{ post.excerpt }}
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-
-
-<div class="panel-group" id="accordion">
-  {% for post in posts %}
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#{{ post.title | replace: ' ', '_' }}">
-            {{ post.title }}
-          </a>
-        </h4>
-      </div>
-      <div id="{{ post.title  | replace: ' ', '_'  }}" class="panel-collapse collapse in">
-        <div class="panel-body">
-          {{ post.content}}
-        </div>
-      </div>
+<div class="body-with-margin">
+  <div class="panel panel-default">
+    <div class="panel-body">
+      <ul>
+        {% for post in posts %}
+        <li>
+        <a href="#{{ post.title | replace: ' ', '_' }}">{{ post.title }}</a>
+        </li>
+        {{ post.excerpt }}
+        {% endfor %}
+      </ul>
     </div>
-  {% endfor %}
-</div>
+  </div>
 
+
+  {% for post in posts %}
+  <div class="panel panel-default">
+    <div class="panel-body">
+      <h2 id="{{ post.title  | replace: ' ', '_'  }}"> {{ post.title }} </h2>
+      {{ post.content}}
+    </div>
+  </div>
+  {% endfor %}
+
+</div>
 
 </body>
