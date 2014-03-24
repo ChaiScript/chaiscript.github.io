@@ -7,38 +7,6 @@
 </div>
 
 
-<div class="likebuttons">
-  <div class="likebutton">
-    <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark" ><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a>
-    <!-- Please call pinit.js only once per page -->
-    <script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
-  </div>
-
-  <div class="likebutton">
-    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://chaiscript.com" data-via="lefticus" data-lang="en">Tweet</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-  </div>
-
-  <div class="likebutton">
-    <!-- Place this tag where you want the +1 button to render. -->
-    <div class="g-plusone" data-size="medium"></div>
-
-    <!-- Place this tag after the last +1 button tag. -->
-    <script type="text/javascript">
-(function() {
-var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-po.src = 'https://apis.google.com/js/platform.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-})();
-    </script>
-  </div>
-
-  <div class="likebutton">
-    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fchaiscript.com&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
-  </div>
-
-</div>
-
 
 
 
@@ -67,9 +35,46 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
         <li {% if page.url == '/support.html'%} class='active' {% endif %}>
         <a href="/support.html">Support</a>
         </li>
+        <li>
+        <a href="https://travis-ci.org/ChaiScript/ChaiScript"><img src="https://travis-ci.org/ChaiScript/ChaiScript.png?branch=develop"/></a>
+        </li>
+        <li>
+        <a href='https://coveralls.io/r/ChaiScript/ChaiScript?branch=master'><img src='https://coveralls.io/repos/ChaiScript/ChaiScript/badge.png?branch=master' alt='Coverage Status' /></a>
+        </li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+
+<div class="hidden-print">
+  <div class="container">
+    <ul class="list-inline">
+      <li>
+      <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=ChaiScript&repo=ChaiScript&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
+      </li>
+      <li>
+      <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=ChaiScript&repo=ChaiScript&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="102px" height="20px"></iframe>
+      </li>
+      <li>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://chaiscript.com" data-text="Easy Embedded Scripting for C++" data-counturl="http://chaiscript.com" data-count="horizontal"  data-via="@lefticus" data-lang="en">Tweet</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </li>
+      <li>
+      <!-- Place this tag where you want the +1 button to render. -->
+      <div class="g-plusone" data-size="medium" data-annotation="inline" data-width="120" data-href="http://chaiscript.com"></div>
+
+      <!-- Place this tag after the last +1 button tag. -->
+      <script type="text/javascript">
+(function() {
+ var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+ po.src = 'https://apis.google.com/js/platform.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+ })();
+      </script>
+      </li>
+    </ul>
+  </div>
+</div>
+
 
 
