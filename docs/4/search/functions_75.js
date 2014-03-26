@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['unary_5fminus',['unary_minus',['../classchaiscript_1_1_boxed___number.html#a4634e8404c05a54f76f21ec4371faf84',1,'chaiscript::Boxed_Number::unary_minus()'],['../namespacechaiscript_1_1bootstrap_1_1operators.html#ac6e8727b0a932c7d3ddb125b3a7f4260',1,'chaiscript::bootstrap::operators::unary_minus(L l)'],['../namespacechaiscript_1_1bootstrap_1_1operators.html#af704ec3b3bc76e8462427df3dde8b5df',1,'chaiscript::bootstrap::operators::unary_minus(ModulePtr m=ModulePtr(new Module()))']]],
+  ['unary_5fplus',['unary_plus',['../classchaiscript_1_1_boxed___number.html#a3e54efb2a88758b59cc6d27c1d72d4a0',1,'chaiscript::Boxed_Number::unary_plus()'],['../namespacechaiscript_1_1bootstrap_1_1operators.html#a595329f98bd26fbc4523c683f3d41617',1,'chaiscript::bootstrap::operators::unary_plus(L l)'],['../namespacechaiscript_1_1bootstrap_1_1operators.html#a30c72f2fd2809d68712f303d1bf0cb4b',1,'chaiscript::bootstrap::operators::unary_plus(ModulePtr m=ModulePtr(new Module()))']]],
+  ['unique_5fassociative_5fcontainer_5ftype',['unique_associative_container_type',['../namespacechaiscript_1_1bootstrap_1_1standard__library.html#a8cf95e4bb18d77781d2219201ef0de37',1,'chaiscript::bootstrap::standard_library']]],
+  ['unique_5flock',['unique_lock',['../classchaiscript_1_1detail_1_1threading_1_1unique__lock.html#afddfaa6d7a4b2c4c3f52ee46b03aea73',1,'chaiscript::detail::threading::unique_lock']]],
+  ['unlock',['unlock',['../classchaiscript_1_1detail_1_1threading_1_1unique__lock.html#ae511b5c6316f9a8c1f96d8fa0fa594fc',1,'chaiscript::detail::threading::unique_lock::unlock()'],['../classchaiscript_1_1detail_1_1threading_1_1shared__lock.html#a718ef69ac5dbf767652293775be8f382',1,'chaiscript::detail::threading::shared_lock::unlock()']]],
+  ['use',['use',['../classchaiscript_1_1_chai_script.html#a9fc2eaf37274d09d1ee90ffd411e665c',1,'chaiscript::ChaiScript']]],
+  ['user_5ftype',['user_type',['../namespacechaiscript.html#aca02d4abcceecf3d99539d0b4c21fe46',1,'chaiscript::user_type(const T &amp;)'],['../namespacechaiscript.html#ac6935e541df67c120faa87d9a2b8e7c1',1,'chaiscript::user_type()']]]
+];
