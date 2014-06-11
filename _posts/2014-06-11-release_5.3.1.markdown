@@ -1,0 +1,22 @@
+---
+title: Release 5.3.1
+tags: release
+---
+## [Release 5.3.1](https://github.com/ChaiScript/ChaiScript/releases/tag/v5.3.1 "Release 5.3.0")
+
+### Changes since 5.3.0
+* Add automatic conversion of arithmetic return types, following the same
+  rules as conversion of arithmetic types when passing parameters
+* Add automatic casting up the inheritence hierarchy when possible.
+* Enable travis.ci testing
+* Allow users to add globals from within script
+* Various static analysis fixes
+* Code modernization to C++11
+* Unofficial support for Haiku added
+* Fix #121 - Inability to compile on cygwin
+* Formatting fixes and spelling corrections
+* Apply "include what you use" https://code.google.com/p/include-what-you-use/
+* Apply clang-modernize
+* Various threading fixes
+* Performance improvements
+
