@@ -1,0 +1,15 @@
+---
+title: Release 5.5.0
+tags: release
+---
+## [Release 5.5.0](https://github.com/ChaiScript/ChaiScript/releases/tag/v5.4.0 "Release 5.5.0")
+
+### Changes since 5.4.0
+* 2x performance increase
+* Significant code cleanups
+* Throw exception if user attempts to call function on null object
+* Allow user defined type conversions [from within chaiscript](https://github.com/ChaiScript/ChaiScript/blob/v5.5.0/unittests/user_defined_conversions.chai) or [c++](https://github.com/ChaiScript/ChaiScript/blob/v5.5.0/src/test_module.cpp#L165-L169)
+* Fix object lifetime for nested function calls made at the global scope
+* Fix returning of boolean values from function calls
+
+
