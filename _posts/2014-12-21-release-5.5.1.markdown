@@ -1,0 +1,12 @@
+---
+title: Release 5.5.1
+tags: release
+---
+## [Release 5.5.1](https://github.com/ChaiScript/ChaiScript/releases/tag/v5.5.1 "Release 5.5.1")
+
+### Changes since 5.5.0
+* 30% performance increase
+* Fix handling of object stack, resulting in greatly reduced memory usage
+* Code cleanups
+
+
