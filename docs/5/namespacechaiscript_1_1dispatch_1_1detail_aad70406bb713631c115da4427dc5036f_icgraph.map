@@ -1,0 +1,11 @@
+<map id="chaiscript::dispatch::detail::build_constructor_" name="chaiscript::dispatch::detail::build_constructor_">
+<area shape="rect" id="node2" href="$namespacechaiscript.html#a4c163e3599e8cc01f144338b99944fe0" title="Generates a constructor function for use with ChaiScript. " alt="" coords="230,208,381,235"/>
+<area shape="rect" id="node3" href="$namespacechaiscript_1_1bootstrap.html#a594441b9ab0848351b03db85a4c25486" title="Adds a copy constructor for the given type to the given Model. " alt="" coords="451,5,591,46"/>
+<area shape="rect" id="node4" href="$namespacechaiscript_1_1bootstrap.html#a1f07e10a13aa7346d9909b97cec6ef9d" title="Adds default and copy constructors for the given type. " alt="" coords="451,70,591,111"/>
+<area shape="rect" id="node5" href="$namespacechaiscript_1_1bootstrap.html#a78da0703690f187c0b573df68451faad" title="chaiscript::bootstrap\l::bootstrap_pod_type" alt="" coords="449,135,593,177"/>
+<area shape="rect" id="node6" href="$classchaiscript_1_1bootstrap_1_1Bootstrap.html#a7405aaf55bc4d3123483513f665f8a7d" title="perform all common bootstrap functions for std::string, void and POD types " alt="" coords="447,201,595,242"/>
+<area shape="rect" id="node7" href="$namespacechaiscript_1_1bootstrap_1_1standard__library_1_1detail.html#a1a8bdfbc38f0091e959d81cc191a9226" title="Add Bidir_Range support for the given ContainerType. " alt="" coords="441,265,602,321"/>
+<area shape="rect" id="node8" href="$namespacechaiscript_1_1bootstrap_1_1standard__library.html#a6fc11038f558979b358ba61de2a11fe4" title="chaiscript::bootstrap\l::standard_library::default\l_constructible_type" alt="" coords="437,345,606,401"/>
+<area shape="rect" id="node9" href="$namespacechaiscript_1_1bootstrap_1_1standard__library.html#a6dde86234ee49fffb84674986c046b4a" title="chaiscript::bootstrap\l::standard_library::pair_type" alt="" coords="430,425,613,466"/>
+<area shape="rect" id="node10" href="$classchaiscript_1_1Std__Lib.html#a8f9b71c5374a3d19871d3f188bd23354" title="chaiscript::Std_Lib\l::library" alt="" coords="661,425,792,466"/>
+</map>

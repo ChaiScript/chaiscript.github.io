@@ -1,0 +1,4 @@
+<map id="chaiscript::detail::Dispatch_Engine::add" name="chaiscript::detail::Dispatch_Engine::add">
+<area shape="rect" id="node2" href="$classchaiscript_1_1ChaiScript.html#a8e9351d918288cf1f71aaf71cc7ae1f9" title="Adds a type, function or object to ChaiScript. Objects are added to the local thread state..." alt="" coords="213,12,389,39"/>
+<area shape="rect" id="node3" href="$classchaiscript_1_1ChaiScript.html#a85fc7015fc228d36ad806326a90c04b7" title="Load a binary module from a dynamic library. Works on platforms that support dynamic libraries..." alt="" coords="437,5,584,46"/>
+</map>

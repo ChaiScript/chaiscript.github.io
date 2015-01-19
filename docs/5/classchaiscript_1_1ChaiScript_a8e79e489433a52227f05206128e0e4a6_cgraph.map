@@ -1,0 +1,9 @@
+<map id="chaiscript::ChaiScript::ChaiScript" name="chaiscript::ChaiScript::ChaiScript">
+<area shape="rect" id="node2" href="$classchaiscript_1_1ChaiScript.html#a9fc2eaf37274d09d1ee90ffd411e665c" title="Loads and parses a file. If the file is already, it is not reloaded The use paths specified at ChaiSc..." alt="" coords="200,12,376,39"/>
+<area shape="rect" id="node4" href="$classchaiscript_1_1ChaiScript.html#a7cbb8a08a3c27473e89435e3c2a9a60f" title="Load a binary module from a dynamic library. Works on platforms that support dynamic libraries..." alt="" coords="215,63,361,105"/>
+<area shape="rect" id="node5" href="$classchaiscript_1_1ChaiScript.html#aded07b0df78b0ebf92f240372d4304a7" title="chaiscript::ChaiScript\l::version" alt="" coords="424,95,571,137"/>
+<area shape="rect" id="node3" href="$classchaiscript_1_1ChaiScript.html#a50274f3dfa858eb79746abe7345c7d84" title="Loads the file specified by filename, evaluates it, and returns the result. " alt="" coords="424,5,571,46"/>
+<area shape="rect" id="node6" href="$classchaiscript_1_1ChaiScript.html#ab91bd6f62cbbc302c3bf69d1cb449b15" title="chaiscript::ChaiScript\l::version_major" alt="" coords="619,30,765,71"/>
+<area shape="rect" id="node7" href="$classchaiscript_1_1ChaiScript.html#a1bfb0e149f6d57f6ae4e72e9269dba51" title="chaiscript::ChaiScript\l::version_minor" alt="" coords="619,95,765,137"/>
+<area shape="rect" id="node8" href="$classchaiscript_1_1ChaiScript.html#a29bc9fa22effb27714135c74b7ac0d86" title="chaiscript::ChaiScript\l::version_patch" alt="" coords="619,161,765,202"/>
+</map>

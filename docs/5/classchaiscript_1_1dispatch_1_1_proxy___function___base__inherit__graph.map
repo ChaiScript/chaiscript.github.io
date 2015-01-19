@@ -1,9 +1,0 @@
-<map id="chaiscript::dispatch::Proxy_Function_Base" name="chaiscript::dispatch::Proxy_Function_Base">
-<area shape="rect" id="node3" href="$classchaiscript_1_1detail_1_1_dispatch___function.html" title="chaiscript::detail\l::Dispatch_Function" alt="" coords="240,5,387,51"/>
-<area shape="rect" id="node5" href="$classchaiscript_1_1dispatch_1_1_attribute___access.html" title="chaiscript::dispatch\l::Attribute_Access\&lt; T,\l Class \&gt;" alt="" coords="232,75,395,139"/>
-<area shape="rect" id="node7" href="$classchaiscript_1_1dispatch_1_1_bound___function.html" title="chaiscript::dispatch\l::Bound_Function" alt="" coords="241,162,385,209"/>
-<area shape="rect" id="node9" href="$classchaiscript_1_1dispatch_1_1detail_1_1_dynamic___object___constructor.html" title="chaiscript::dispatch\l::detail::Dynamic_Object\l_Constructor" alt="" coords="225,232,401,296"/>
-<area shape="rect" id="node11" href="$classchaiscript_1_1dispatch_1_1detail_1_1_dynamic___object___function.html" title="chaiscript::dispatch\l::detail::Dynamic_Object\l_Function" alt="" coords="225,320,401,384"/>
-<area shape="rect" id="node13" href="$classchaiscript_1_1dispatch_1_1_dynamic___proxy___function.html" title="chaiscript::dispatch\l::Dynamic_Proxy_Function" alt="" coords="220,407,407,454"/>
-<area shape="rect" id="node15" href="$classchaiscript_1_1dispatch_1_1_proxy___function___impl.html" title="chaiscript::dispatch\l::Proxy_Function_Impl\l\&lt; Func \&gt;" alt="" coords="235,477,392,541"/>
-</map>

@@ -1,0 +1,7 @@
+<map id="chaiscript::detail::Exception_Handler_Base::throw_type" name="chaiscript::detail::Exception_Handler_Base::throw_type">
+<area shape="rect" id="node2" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#af50124995a5e5a2b9ada7773bb67727c" title="casts an object while applying any Dynamic_Conversion available " alt="" coords="195,38,399,79"/>
+<area shape="rect" id="node3" href="$namespacechaiscript.html#affc64acef83f5f5a06239d41d297ee9c" title="Function for extracting a value stored in a Boxed_Value object. " alt="" coords="449,45,602,72"/>
+<area shape="rect" id="node4" href="$structchaiscript_1_1detail_1_1Cast__Helper.html#a8e7f79db51b985c3b6a2ffb1a1a3dce4" title="chaiscript::detail\l::Cast_Helper::cast" alt="" coords="664,5,800,46"/>
+<area shape="rect" id="node6" href="$classchaiscript_1_1Boxed__Value.html#a7153d6e5d94e41918542398730cf7e0b" title="chaiscript::Boxed_Value\l::get_type_info" alt="" coords="651,70,813,111"/>
+<area shape="rect" id="node5" href="$structchaiscript_1_1detail_1_1Cast__Helper__Inner.html#a078f545ed687f24b142051da5cea3768" title="chaiscript::detail\l::Cast_Helper_Inner::cast" alt="" coords="862,5,1034,46"/>
+</map>

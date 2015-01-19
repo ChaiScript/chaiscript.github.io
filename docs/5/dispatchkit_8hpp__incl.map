@@ -1,0 +1,18 @@
+<map id="include/chaiscript/dispatchkit/dispatchkit.hpp" name="include/chaiscript/dispatchkit/dispatchkit.hpp">
+<area shape="rect" id="node16" href="$chaiscript__defines_8hpp.html" title="../chaiscript_defines.hpp" alt="" coords="1927,784,2091,811"/>
+<area shape="rect" id="node17" href="$chaiscript__threading_8hpp.html" title="../chaiscript_threading.hpp" alt="" coords="101,784,275,811"/>
+<area shape="rect" id="node21" href="$boxed__cast_8hpp.html" title="boxed_cast.hpp" alt="" coords="1017,477,1132,504"/>
+<area shape="rect" id="node24" href="$type__info_8hpp.html" title="type_info.hpp" alt="" coords="1327,784,1427,811"/>
+<area shape="rect" id="node26" href="$boxed__cast__helper_8hpp.html" title="boxed_cast_helper.hpp" alt="" coords="1311,635,1467,661"/>
+<area shape="rect" id="node27" href="$boxed__value_8hpp.html" title="boxed_value.hpp" alt="" coords="1631,709,1751,736"/>
+<area shape="rect" id="node29" href="$type__conversions_8hpp.html" title="type_conversions.hpp" alt="" coords="728,560,876,587"/>
+<area shape="rect" id="node31" href="$dynamic__object_8hpp.html" title="dynamic_object.hpp" alt="" coords="1279,395,1417,421"/>
+<area shape="rect" id="node32" href="$proxy__constructors_8hpp.html" title="proxy_constructors.hpp" alt="" coords="1310,96,1468,123"/>
+<area shape="rect" id="node33" href="$proxy__functions_8hpp.html" title="proxy_functions.hpp" alt="" coords="1537,171,1676,197"/>
+<area shape="rect" id="node23" href="$bad__boxed__cast_8hpp.html" title="bad_boxed_cast.hpp" alt="" coords="1058,709,1200,736"/>
+<area shape="rect" id="node28" href="$any_8hpp.html" title="any.hpp" alt="" coords="1585,784,1652,811"/>
+<area shape="rect" id="node34" href="$proxy__functions__detail_8hpp.html" title="proxy_functions_detail.hpp" alt="" coords="2223,245,2400,272"/>
+<area shape="rect" id="node35" href="$handle__return_8hpp.html" title="handle_return.hpp" alt="" coords="2249,320,2375,347"/>
+<area shape="rect" id="node36" href="$boxed__number_8hpp.html" title="boxed_number.hpp" alt="" coords="2133,395,2264,421"/>
+<area shape="rect" id="node39" href="$chaiscript__algebraic_8hpp.html" title="../language/chaiscript\l_algebraic.hpp" alt="" coords="2937,470,3084,511"/>
+</map>

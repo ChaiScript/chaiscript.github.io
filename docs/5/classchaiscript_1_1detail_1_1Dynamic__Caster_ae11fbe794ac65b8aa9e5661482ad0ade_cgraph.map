@@ -1,0 +1,9 @@
+<map id="chaiscript::detail::Dynamic_Caster::cast" name="chaiscript::detail::Dynamic_Caster::cast">
+<area shape="rect" id="node2" href="$classchaiscript_1_1Boxed__Value.html#a7153d6e5d94e41918542398730cf7e0b" title="chaiscript::Boxed_Value\l::get_type_info" alt="" coords="216,5,379,46"/>
+<area shape="rect" id="node3" href="$classchaiscript_1_1Type__Info.html#a7c407284e31cdc019428bac9286effe6" title="chaiscript::Type_Info\l::bare_equal" alt="" coords="225,70,369,111"/>
+<area shape="rect" id="node4" href="$classchaiscript_1_1Boxed__Value.html#af9c4226856b8375f9aad669be90de25f" title="chaiscript::Boxed_Value\l::is_pointer" alt="" coords="216,135,379,177"/>
+<area shape="rect" id="node6" href="$classchaiscript_1_1Boxed__Value.html#ab37d3d203c001120c35afda29cf44c09" title="chaiscript::Boxed_Value\l::is_const" alt="" coords="216,201,379,242"/>
+<area shape="rect" id="node7" href="$structchaiscript_1_1detail_1_1Cast__Helper.html#a8e7f79db51b985c3b6a2ffb1a1a3dce4" title="chaiscript::detail\l::Cast_Helper::cast" alt="" coords="229,266,365,307"/>
+<area shape="rect" id="node5" href="$classchaiscript_1_1Boxed__Value.html#a0cdc9385e1ab153abe862f46418e7abb" title="chaiscript::Boxed_Value\l::is_ref" alt="" coords="432,135,595,177"/>
+<area shape="rect" id="node8" href="$structchaiscript_1_1detail_1_1Cast__Helper__Inner.html#a078f545ed687f24b142051da5cea3768" title="chaiscript::detail\l::Cast_Helper_Inner::cast" alt="" coords="427,266,599,307"/>
+</map>

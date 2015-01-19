@@ -1,0 +1,22 @@
+<map id="include/chaiscript/dispatchkit/handle_return.hpp" name="include/chaiscript/dispatchkit/handle_return.hpp">
+<area shape="rect" id="node2" href="$proxy__functions__detail_8hpp.html" title="include/chaiscript\l/dispatchkit/proxy_functions\l_detail.hpp" alt="" coords="737,109,921,165"/>
+<area shape="rect" id="node3" href="$proxy__functions_8hpp.html" title="include/chaiscript\l/dispatchkit/proxy_functions.hpp" alt="" coords="645,214,855,255"/>
+<area shape="rect" id="node8" href="$bootstrap_8hpp.html" title="include/chaiscript\l/dispatchkit/bootstrap.hpp" alt="" coords="1046,1097,1217,1138"/>
+<area shape="rect" id="node15" href="$chaiscript__eval_8hpp.html" title="include/chaiscript\l/language/chaiscript\l_eval.hpp" alt="" coords="675,707,813,763"/>
+<area shape="rect" id="node4" href="$proxy__constructors_8hpp.html" title="include/chaiscript\l/dispatchkit/proxy_constructors.hpp" alt="" coords="1193,305,1423,346"/>
+<area shape="rect" id="node5" href="$dispatchkit_8hpp.html" title="include/chaiscript\l/dispatchkit/dispatchkit.hpp" alt="" coords="937,402,1119,443"/>
+<area shape="rect" id="node7" href="$utility_8hpp.html" title="include/chaiscript\l/utility/utility.hpp" alt="" coords="944,1006,1067,1047"/>
+<area shape="rect" id="node13" href="$function__call__detail_8hpp.html" title="include/chaiscript\l/dispatchkit/function\l_call_detail.hpp" alt="" coords="132,707,271,763"/>
+<area shape="rect" id="node14" href="$function__call_8hpp.html" title="include/chaiscript\l/dispatchkit/function\l_call.hpp" alt="" coords="132,811,271,867"/>
+<area shape="rect" id="node16" href="$register__function_8hpp.html" title="include/chaiscript\l/dispatchkit/register\l_function.hpp" alt="" coords="1315,603,1449,659"/>
+<area shape="rect" id="node18" href="$chaiscript__common_8hpp.html" title="include/chaiscript\l/language/chaiscript\l_common.hpp" alt="" coords="643,499,781,555"/>
+<area shape="rect" id="node19" href="$chaiscript__engine_8hpp.html" title="include/chaiscript\l/language/chaiscript\l_engine.hpp" alt="" coords="512,707,651,763"/>
+<area shape="rect" id="node21" href="$dynamic__object__detail_8hpp.html" title="include/chaiscript\l/dispatchkit/dynamic\l_object_detail.hpp" alt="" coords="489,395,631,451"/>
+<area shape="rect" id="node10" href="$bootstrap__stl_8hpp.html" title="include/chaiscript\l/dispatchkit/bootstrap\l_stl.hpp" alt="" coords="1357,1187,1504,1243"/>
+<area shape="rect" id="node6" href="$chaiscript_8hpp.html" title="include/chaiscript\l/chaiscript.hpp" alt="" coords="581,915,704,957"/>
+<area shape="rect" id="node9" href="$chaiscript__stdlib_8hpp.html" title="include/chaiscript\l/chaiscript_stdlib.hpp" alt="" coords="1358,1291,1503,1333"/>
+<area shape="rect" id="node11" href="$chaiscript__algebraic_8hpp.html" title="include/chaiscript\l/language/chaiscript\l_algebraic.hpp" alt="" coords="480,499,619,555"/>
+<area shape="rect" id="node12" href="$boxed__number_8hpp.html" title="include/chaiscript\l/dispatchkit/boxed_number.hpp" alt="" coords="144,610,347,651"/>
+<area shape="rect" id="node17" href="$operators_8hpp.html" title="include/chaiscript\l/dispatchkit/operators.hpp" alt="" coords="1345,1006,1516,1047"/>
+<area shape="rect" id="node20" href="$chaiscript__parser_8hpp.html" title="include/chaiscript\l/language/chaiscript\l_parser.hpp" alt="" coords="523,603,661,659"/>
+</map>

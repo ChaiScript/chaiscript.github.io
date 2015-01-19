@@ -1,0 +1,18 @@
+<map id="include/chaiscript/dispatchkit/boxed_number.hpp" name="include/chaiscript/dispatchkit/boxed_number.hpp">
+<area shape="rect" id="node5" href="$chaiscript__algebraic_8hpp.html" title="../language/chaiscript\l_algebraic.hpp" alt="" coords="1807,97,1953,138"/>
+<area shape="rect" id="node25" href="$boxed__cast_8hpp.html" title="boxed_cast.hpp" alt="" coords="1749,485,1864,512"/>
+<area shape="rect" id="node28" href="$type__info_8hpp.html" title="type_info.hpp" alt="" coords="1805,784,1904,811"/>
+<area shape="rect" id="node30" href="$boxed__cast__helper_8hpp.html" title="boxed_cast_helper.hpp" alt="" coords="1601,635,1756,661"/>
+<area shape="rect" id="node31" href="$boxed__value_8hpp.html" title="boxed_value.hpp" alt="" coords="948,709,1068,736"/>
+<area shape="rect" id="node32" href="$any_8hpp.html" title="any.hpp" alt="" coords="193,784,260,811"/>
+<area shape="rect" id="node6" href="$dispatchkit_8hpp.html" title="../dispatchkit/dispatchkit.hpp" alt="" coords="1785,187,1975,213"/>
+<area shape="rect" id="node20" href="$chaiscript__defines_8hpp.html" title="../chaiscript_defines.hpp" alt="" coords="2542,784,2705,811"/>
+<area shape="rect" id="node21" href="$chaiscript__threading_8hpp.html" title="../chaiscript_threading.hpp" alt="" coords="510,784,684,811"/>
+<area shape="rect" id="node33" href="$type__conversions_8hpp.html" title="type_conversions.hpp" alt="" coords="1233,560,1381,587"/>
+<area shape="rect" id="node35" href="$dynamic__object_8hpp.html" title="dynamic_object.hpp" alt="" coords="1493,411,1632,437"/>
+<area shape="rect" id="node36" href="$proxy__constructors_8hpp.html" title="proxy_constructors.hpp" alt="" coords="1994,261,2152,288"/>
+<area shape="rect" id="node37" href="$proxy__functions_8hpp.html" title="proxy_functions.hpp" alt="" coords="2085,336,2224,363"/>
+<area shape="rect" id="node27" href="$bad__boxed__cast_8hpp.html" title="bad_boxed_cast.hpp" alt="" coords="2121,709,2263,736"/>
+<area shape="rect" id="node38" href="$proxy__functions__detail_8hpp.html" title="proxy_functions_detail.hpp" alt="" coords="2418,411,2595,437"/>
+<area shape="rect" id="node39" href="$handle__return_8hpp.html" title="handle_return.hpp" alt="" coords="2293,485,2419,512"/>
+</map>

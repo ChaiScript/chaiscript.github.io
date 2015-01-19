@@ -1,0 +1,7 @@
+<map id="chaiscript::dispatch::Dynamic_Object::get_type_name" name="chaiscript::dispatch::Dynamic_Object::get_type_name">
+<area shape="rect" id="node2" href="$classchaiscript_1_1bootstrap_1_1Bootstrap.html#a7405aaf55bc4d3123483513f665f8a7d" title="perform all common bootstrap functions for std::string, void and POD types " alt="" coords="223,5,371,46"/>
+<area shape="rect" id="node3" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#ac820ca4b510c4c7151c58d8858779849" title="return true if the Boxed_Value matches the registered type by name " alt="" coords="208,70,387,111"/>
+<area shape="rect" id="node4" href="$classchaiscript_1_1dispatch_1_1Param__Types.html#a1a0d948290408c93b9aec8d92b29b750" title="chaiscript::dispatch\l::Param_Types::match" alt="" coords="220,135,375,177"/>
+<area shape="rect" id="node5" href="$classchaiscript_1_1dispatch_1_1Dynamic__Proxy__Function.html#aa10ab7e3622626948d1c9ee358ae251a" title="chaiscript::dispatch\l::Dynamic_Proxy_Function\l::call_match" alt="" coords="435,128,615,184"/>
+<area shape="rect" id="node6" href="$classchaiscript_1_1dispatch_1_1Dynamic__Proxy__Function.html#af7e6630f8467cd662a9b2238f8ded063" title="chaiscript::dispatch\l::Dynamic_Proxy_Function\l::do_call" alt="" coords="665,128,845,184"/>
+</map>

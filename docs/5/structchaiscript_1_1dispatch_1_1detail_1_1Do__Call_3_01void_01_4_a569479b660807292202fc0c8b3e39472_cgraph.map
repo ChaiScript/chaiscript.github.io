@@ -1,0 +1,6 @@
+<map id="chaiscript::dispatch::detail::Do_Call&lt; void &gt;::go" name="chaiscript::dispatch::detail::Do_Call&lt; void &gt;::go">
+<area shape="rect" id="node2" href="$namespacechaiscript_1_1dispatch_1_1detail.html#a15a66a2bb917a86ee203dcf1221097a5" title="chaiscript::dispatch\l::detail::call_func" alt="" coords="251,5,386,46"/>
+<area shape="rect" id="node3" href="$structchaiscript_1_1dispatch_1_1detail_1_1Handle__Return.html#ad76b704556f24c7e33bf63ecea61a6dc" title="chaiscript::dispatch\l::detail::Handle_Return\l::handle" alt="" coords="241,69,397,125"/>
+<area shape="rect" id="node4" href="$namespacechaiscript.html#af4f2de09723af9248cb1a8a34242ace7" title="Takes an object and returns an immutable Boxed_Value. If the object is a std::reference or pointer ty..." alt="" coords="446,84,589,111"/>
+<area shape="rect" id="node5" href="$namespacechaiscript_1_1detail.html#adfc0e50cd2f120efa976f418060274dd" title="Takes a value, copies it and returns a Boxed_Value object that is immutable. " alt="" coords="638,77,757,118"/>
+</map>

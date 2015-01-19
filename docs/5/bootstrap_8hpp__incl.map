@@ -1,0 +1,28 @@
+<map id="include/chaiscript/dispatchkit/bootstrap.hpp" name="include/chaiscript/dispatchkit/bootstrap.hpp">
+<area shape="rect" id="node13" href="$bad__boxed__cast_8hpp.html" title="bad_boxed_cast.hpp" alt="" coords="3489,1056,3631,1083"/>
+<area shape="rect" id="node16" href="$type__info_8hpp.html" title="type_info.hpp" alt="" coords="3078,1131,3177,1157"/>
+<area shape="rect" id="node17" href="$boxed__cast_8hpp.html" title="boxed_cast.hpp" alt="" coords="2644,832,2759,859"/>
+<area shape="rect" id="node23" href="$boxed__value_8hpp.html" title="boxed_value.hpp" alt="" coords="2363,1056,2483,1083"/>
+<area shape="rect" id="node26" href="$type__conversions_8hpp.html" title="type_conversions.hpp" alt="" coords="3651,907,3799,933"/>
+<area shape="rect" id="node29" href="$boxed__number_8hpp.html" title="boxed_number.hpp" alt="" coords="2801,344,2932,371"/>
+<area shape="rect" id="node31" href="$dispatchkit_8hpp.html" title="../dispatchkit/dispatchkit.hpp" alt="" coords="2581,517,2771,544"/>
+<area shape="rect" id="node37" href="$dynamic__object_8hpp.html" title="dynamic_object.hpp" alt="" coords="1835,757,1973,784"/>
+<area shape="rect" id="node38" href="$proxy__constructors_8hpp.html" title="proxy_constructors.hpp" alt="" coords="2001,600,2159,627"/>
+<area shape="rect" id="node39" href="$proxy__functions_8hpp.html" title="proxy_functions.hpp" alt="" coords="2159,683,2297,709"/>
+<area shape="rect" id="node40" href="$proxy__functions__detail_8hpp.html" title="proxy_functions_detail.hpp" alt="" coords="3034,757,3211,784"/>
+<area shape="rect" id="node42" href="$operators_8hpp.html" title="operators.hpp" alt="" coords="397,344,499,371"/>
+<area shape="rect" id="node43" href="$register__function_8hpp.html" title="register_function.hpp" alt="" coords="355,435,497,461"/>
+<area shape="rect" id="node45" href="$utility_8hpp.html" title="../utility/utility.hpp" alt="" coords="1748,96,1873,123"/>
+<area shape="rect" id="node49" href="$chaiscript__common_8hpp.html" title="chaiscript_common.hpp" alt="" coords="3784,435,3943,461"/>
+<area shape="rect" id="node15" href="$chaiscript__defines_8hpp.html" title="../chaiscript_defines.hpp" alt="" coords="1419,1131,1583,1157"/>
+<area shape="rect" id="node18" href="$chaiscript__threading_8hpp.html" title="../chaiscript_threading.hpp" alt="" coords="4113,1131,4287,1157"/>
+<area shape="rect" id="node22" href="$boxed__cast__helper_8hpp.html" title="boxed_cast_helper.hpp" alt="" coords="1870,981,2025,1008"/>
+<area shape="rect" id="node24" href="$any_8hpp.html" title="any.hpp" alt="" coords="270,1131,337,1157"/>
+<area shape="rect" id="node30" href="$chaiscript__algebraic_8hpp.html" title="../language/chaiscript\l_algebraic.hpp" alt="" coords="3005,427,3152,469"/>
+<area shape="rect" id="node41" href="$handle__return_8hpp.html" title="handle_return.hpp" alt="" coords="3087,832,3212,859"/>
+<area shape="rect" id="node44" href="$bind__first_8hpp.html" title="bind_first.hpp" alt="" coords="297,683,396,709"/>
+<area shape="rect" id="node46" href="$chaiscript_8hpp.html" title="../chaiscript.hpp" alt="" coords="1753,171,1868,197"/>
+<area shape="rect" id="node47" href="$function__call_8hpp.html" title="dispatchkit/function\l_call.hpp" alt="" coords="1233,593,1367,634"/>
+<area shape="rect" id="node48" href="$chaiscript__eval_8hpp.html" title="language/chaiscript\l_eval.hpp" alt="" coords="2943,246,3077,287"/>
+<area shape="rect" id="node50" href="$chaiscript__engine_8hpp.html" title="language/chaiscript\l_engine.hpp" alt="" coords="4119,337,4253,378"/>
+</map>

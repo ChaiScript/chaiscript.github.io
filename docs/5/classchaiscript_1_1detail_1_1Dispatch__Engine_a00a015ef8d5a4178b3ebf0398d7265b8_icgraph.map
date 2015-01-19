@@ -1,0 +1,4 @@
+<map id="chaiscript::detail::Dispatch_Engine::add_global_const" name="chaiscript::detail::Dispatch_Engine::add_global_const">
+<area shape="rect" id="node2" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#ae33094dfaf79392ee19116da2bf83f68" title="Registers a new named type. " alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node3" href="$classchaiscript_1_1ChaiScript.html#a971c88ba6cd454a73874e2bb4ab9d17d" title="Adds a constant object that is available in all contexts and to all threads. " alt="" coords="220,70,367,111"/>
+</map>

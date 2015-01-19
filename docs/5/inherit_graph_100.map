@@ -1,19 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title="STL class. " alt="" coords="5,256,117,285"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="181,83,288,112"/>
-<area shape="rect" id="node11" title="STL class. " alt="" coords="167,429,303,459"/>
-<area shape="rect" id="node5" href="$classchaiscript_1_1detail_1_1exception_1_1bad__any__cast.html" title="Thrown in the event that an Any cannot be cast to the desired type. " alt="" coords="353,5,540,51"/>
-<area shape="rect" id="node7" href="$classchaiscript_1_1exception_1_1bad__boxed__cast.html" title="Thrown in the event that a Boxed_Value cannot be cast to the desired type. " alt="" coords="371,74,523,121"/>
-<area shape="rect" id="node9" href="$classchaiscript_1_1exception_1_1bad__boxed__dynamic__cast.html" title="chaiscript::exception\l::bad_boxed_dynamic_cast" alt="" coords="589,74,784,121"/>
-<area shape="rect" id="node13" href="$classchaiscript_1_1exception_1_1dispatch__error.html" title="Exception thrown in the case that a method dispatch fails because no matching function was found..." alt="" coords="371,143,523,190"/>
-<area shape="rect" id="node15" href="$structchaiscript_1_1exception_1_1eval__error.html" title="Errors generated during parsing or evaluation. " alt="" coords="371,213,523,259"/>
-<area shape="rect" id="node17" href="$structchaiscript_1_1exception_1_1file__not__found__error.html" title="Errors generated when loading a file. " alt="" coords="369,282,524,329"/>
-<area shape="rect" id="node19" href="$classchaiscript_1_1exception_1_1global__non__const.html" title="chaiscript::exception\l::global_non_const" alt="" coords="371,351,523,398"/>
-<area shape="rect" id="node21" href="$classchaiscript_1_1exception_1_1guard__error.html" title="Exception thrown if a function&#39;s guard fails. " alt="" coords="371,421,523,467"/>
-<area shape="rect" id="node23" href="$classchaiscript_1_1exception_1_1illegal__name__error.html" title="chaiscript::exception\l::illegal_name_error" alt="" coords="371,490,523,537"/>
-<area shape="rect" id="node25" href="$structchaiscript_1_1exception_1_1load__module__error.html" title="Thrown if an error occurs while attempting to load a binary module. " alt="" coords="371,559,523,606"/>
-<area shape="rect" id="node27" href="$classchaiscript_1_1exception_1_1name__conflict__error.html" title="chaiscript::exception\l::name_conflict_error" alt="" coords="369,629,524,675"/>
-<area shape="rect" id="node29" href="$classchaiscript_1_1exception_1_1reserved__word__error.html" title="chaiscript::exception\l::reserved_word_error" alt="" coords="367,698,527,745"/>
-<area shape="rect" id="node31" title="STL class. " alt="" coords="385,768,508,797"/>
-<area shape="rect" id="node33" href="$structchaiscript_1_1exception_1_1arity__error.html" title="chaiscript::exception\l::arity_error" alt="" coords="611,759,763,806"/>
+<area shape="rect" id="node1" href="$classChaiScript__Language_1_1Map.html" title="Maps strings to Objects. " alt="" coords="5,5,184,32"/>
 </map>
