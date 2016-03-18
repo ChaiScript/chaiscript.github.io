@@ -34,9 +34,6 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li {% if page.url == '/releases.html'%} class='active' {% endif %}>
-        <a href="/releases.html">Releases</a>
-        </li>
         <li {% if page.url == '/examples.html'%} class='active' {% endif %}>
         <a href="/examples.html">Examples</a>
         </li>
@@ -53,6 +50,9 @@
         <a href="/coding_standards.html">Coding Standards</a>
         </li>
         <li>
+        <a href="https://github.com/ChaiScript/ChaiScript/releases"><img src="https://img.shields.io/github/release/ChaiScript/ChaiScript.svg"></a>
+        </li>
+        <li>
         <a href="https://travis-ci.org/ChaiScript/ChaiScript.svg?branch=master"><img src="https://travis-ci.org/ChaiScript/ChaiScript.png?branch=master"/></a>
         </li>
         <li>
@@ -60,9 +60,6 @@
         </li>
         <li>
         <a href="http://codecov.io/github/ChaiScript/ChaiScript?branch=master"><img src="http://codecov.io/github/ChaiScript/ChaiScript/coverage.svg?branch=master" alt="Coverage Status" /></a>
-        </li>
-        <li>
-        <a href="https://github.com/ChaiScript/ChaiScript/releases/latest"><img src="https://img.shields.io/github/release/ChaiScript/ChaiScript.svg"></a>
         </li>
         <li>
           <a href="http://chaiscript.com/ChaiScript-BuildResults/index.html"><img src="https://img.shields.io/badge/dashboard-online-green.svg"/></a>
@@ -85,12 +82,6 @@
       <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=ChaiScript&repo=ChaiScript&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="102px" height="20px"></iframe>
       </li>
       
-      <li>
-        <a href="https://www.patreon.com/bePatron?u=2977989&redirect_uri=https%3A%2F%2Fwww.patreon.com%2Flefticus">
-          <img height="40" width="204" src="https://s3-us-west-1.amazonaws.com/widget-images/become-patron-widget-medium%402x.png">
-        </a>
-      </li>
-
       <li>
       <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://chaiscript.com" data-text="Easy Embedded Scripting for C++" data-counturl="http://chaiscript.com" data-count="horizontal"  data-via="@lefticus" data-lang="en">Tweet</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

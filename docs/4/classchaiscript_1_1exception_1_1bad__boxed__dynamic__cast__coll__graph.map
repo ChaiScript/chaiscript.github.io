@@ -1,6 +1,0 @@
-<map id="chaiscript::exception::bad_boxed_dynamic_cast" name="chaiscript::exception::bad_boxed_dynamic_cast">
-<area shape="rect" id="node2" href="$classchaiscript_1_1exception_1_1bad__boxed__cast.html" title="Thrown in the event that a Boxed_Value cannot be cast to the desired type. " alt="" coords="99,182,251,229"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="8,85,115,115"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="5,5,117,35"/>
-<area shape="rect" id="node8" href="$classchaiscript_1_1_type___info.html" title="Compile time deduced information about a type. " alt="" coords="139,85,288,115"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="chaiscript::eval::Continue_AST_Node" name="chaiscript::eval::Continue_AST_Node">
-<area shape="rect" id="node2" href="$structchaiscript_1_1AST__Node.html" title="Struct that doubles as both a parser ast_node and an AST node. " alt="" coords="726,95,877,121"/>
-<area shape="rect" id="node4" href="$structchaiscript_1_1File__Position.html" title="Convenience type for file positions. " alt="" coords="451,71,613,97"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="492,121,572,148"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="153,110,279,151"/>
-<area shape="rect" id="node8" title="STL class. " alt="" coords="158,176,274,203"/>
-</map>

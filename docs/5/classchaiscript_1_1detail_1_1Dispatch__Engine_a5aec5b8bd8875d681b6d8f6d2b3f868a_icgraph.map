@@ -1,8 +1,0 @@
-<map id="chaiscript::detail::Dispatch_Engine::get_type_name" name="chaiscript::detail::Dispatch_Engine::get_type_name">
-<area shape="rect" id="node2" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#a5ede95d3f6a057e174d234e1eefefd6a" title="Dump type info to stdout. " alt="" coords="209,15,410,57"/>
-<area shape="rect" id="node5" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#a66de1924a511b8466da3235d11657aea" title="chaiscript::detail\l::Dispatch_Engine::type_name" alt="" coords="209,85,410,126"/>
-<area shape="rect" id="node7" href="$classchaiscript_1_1ChaiScript.html#aa4317316bdd077949c37c1dae78cf708" title="chaiscript::ChaiScript\l::get_type_name" alt="" coords="236,150,383,191"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#a855eacabb2e548bea24aa414c7f5bb9f" title="Dump function to stdout. " alt="" coords="459,4,629,60"/>
-<area shape="rect" id="node4" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#af586418fb110b18537831f475a14159f" title="Dump all system info to stdout. " alt="" coords="678,4,847,60"/>
-<area shape="rect" id="node6" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#ad8216e18ab57675590509395478cb434" title="Dump object info to stdout. " alt="" coords="459,84,629,140"/>
-</map>

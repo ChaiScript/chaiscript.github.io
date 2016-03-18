@@ -1,6 +1,0 @@
-<map id="chaiscript::detail::Cast_Helper&lt; std::function&lt; Signature &gt; &gt;::cast" name="chaiscript::detail::Cast_Helper&lt; std::function&lt; Signature &gt; &gt;::cast">
-<area shape="rect" id="node2" href="$classchaiscript_1_1Boxed__Value.html#a7153d6e5d94e41918542398730cf7e0b" title="chaiscript::Boxed_Value\l::get_type_info" alt="" coords="200,5,363,46"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1Type__Info.html#a7c407284e31cdc019428bac9286effe6" title="chaiscript::Type_Info\l::bare_equal" alt="" coords="209,70,353,111"/>
-<area shape="rect" id="node4" href="$structchaiscript_1_1detail_1_1Cast__Helper.html#a8e7f79db51b985c3b6a2ffb1a1a3dce4" title="chaiscript::detail\l::Cast_Helper::cast" alt="" coords="213,135,349,177"/>
-<area shape="rect" id="node5" href="$structchaiscript_1_1detail_1_1Cast__Helper__Inner.html#a078f545ed687f24b142051da5cea3768" title="chaiscript::detail\l::Cast_Helper_Inner::cast" alt="" coords="411,135,583,177"/>
-</map>

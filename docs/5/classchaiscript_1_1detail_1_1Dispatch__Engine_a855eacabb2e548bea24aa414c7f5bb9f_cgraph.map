@@ -1,6 +1,0 @@
-<map id="chaiscript::detail::Dispatch_Engine::dump_function" name="chaiscript::detail::Dispatch_Engine::dump_function">
-<area shape="rect" id="node2" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#a5ede95d3f6a057e174d234e1eefefd6a" title="Dump type info to stdout. " alt="" coords="225,41,426,82"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1Type__Info.html#a2a0e15ba3bfb7653f5cd00079ccfce58" title="chaiscript::Type_Info\l::is_const" alt="" coords="480,5,624,46"/>
-<area shape="rect" id="node4" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#a5aec5b8bd8875d681b6d8f6d2b3f868a" title="chaiscript::detail\l::Dispatch_Engine::get\l_type_name" alt="" coords="475,69,629,125"/>
-<area shape="rect" id="node5" href="$classchaiscript_1_1Type__Info.html#a95ad61b2c59006c76ef84b84f7838494" title="chaiscript::Type_Info\l::bare_name" alt="" coords="677,77,821,118"/>
-</map>

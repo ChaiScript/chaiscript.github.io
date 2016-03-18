@@ -1,8 +1,0 @@
-<map id="chaiscript::detail::Dispatch_Engine::boxed_cast" name="chaiscript::detail::Dispatch_Engine::boxed_cast">
-<area shape="rect" id="node2" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#af3e1bd34bb3a2389d7d980a7face268f" title="chaiscript::detail\l::Dispatch_Engine::call\l_exists" alt="" coords="269,5,427,61"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#ac820ca4b510c4c7151c58d8858779849" title="return true if the Boxed_Value matches the registered type by name " alt="" coords="259,85,437,126"/>
-<area shape="rect" id="node4" href="$structchaiscript_1_1detail_1_1Exception__Handler__Base.html#a05b05164cf6a5bacc439144f5e32777b" title="chaiscript::detail\l::Exception_Handler\l_Base::throw_type" alt="" coords="278,149,418,205"/>
-<area shape="rect" id="node5" href="$classchaiscript_1_1ChaiScript.html#a52440d54a7e7651f3bd57c7912e3d403" title="Evaluates a string and returns a typesafe result. " alt="" coords="275,229,421,270"/>
-<area shape="rect" id="node6" href="$classchaiscript_1_1ChaiScript.html#a7dd2aa3e0ca691e9792a2e3dfb544483" title="casts an object while applying any Dynamic_Conversion available " alt="" coords="275,294,421,335"/>
-<area shape="rect" id="node7" href="$classchaiscript_1_1ChaiScript.html#a4a0a13edfb20fa69d04fc57727ff9827" title="Loads the file specified by filename, evaluates it, and returns the type safe result. " alt="" coords="275,359,421,401"/>
-</map>

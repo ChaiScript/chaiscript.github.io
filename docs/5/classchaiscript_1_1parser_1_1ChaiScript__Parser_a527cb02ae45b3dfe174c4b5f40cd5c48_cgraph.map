@@ -1,5 +1,0 @@
-<map id="chaiscript::parser::ChaiScript_Parser::Eol_" name="chaiscript::parser::ChaiScript_Parser::Eol_">
-<area shape="rect" id="node2" href="$classchaiscript_1_1parser_1_1ChaiScript__Parser.html#a03529a9715917548947f7f4da22794c0" title="Check to see if there is more text parse. " alt="" coords="408,32,544,88"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1parser_1_1ChaiScript__Parser.html#afda889135a1560eaa137519736773700" title="Reads a symbol group from input if it matches the parameter, without skipping initial whitespace..." alt="" coords="224,24,360,80"/>
-<area shape="rect" id="node4" href="$classchaiscript_1_1parser_1_1ChaiScript__Parser.html#a9c52c197d862b501eab676229771c7e2" title="Reads a char from input if it matches the parameter, without skipping initial whitespace. " alt="" coords="224,104,360,160"/>
-</map>

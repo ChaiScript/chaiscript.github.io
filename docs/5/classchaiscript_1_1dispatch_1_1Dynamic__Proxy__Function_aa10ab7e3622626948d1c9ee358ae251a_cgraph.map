@@ -1,8 +1,0 @@
-<map id="chaiscript::dispatch::Dynamic_Proxy_Function::call_match" name="chaiscript::dispatch::Dynamic_Proxy_Function::call_match">
-<area shape="rect" id="node2" href="$classchaiscript_1_1dispatch_1_1Param__Types.html#a1a0d948290408c93b9aec8d92b29b750" title="chaiscript::dispatch\l::Param_Types::match" alt="" coords="235,70,389,111"/>
-<area shape="rect" id="node3" href="$namespacechaiscript.html#affc64acef83f5f5a06239d41d297ee9c" title="Function for extracting a value stored in a Boxed_Value object. " alt="" coords="438,44,591,71"/>
-<area shape="rect" id="node7" href="$classchaiscript_1_1dispatch_1_1Dynamic__Object.html#a5fd05e7bda3e68f7b2c209c9c1c7bfe7" title="chaiscript::dispatch\l::Dynamic_Object::get\l_type_name" alt="" coords="438,95,591,151"/>
-<area shape="rect" id="node4" href="$structchaiscript_1_1detail_1_1Cast__Helper.html#a8e7f79db51b985c3b6a2ffb1a1a3dce4" title="chaiscript::detail\l::Cast_Helper::cast" alt="" coords="653,5,789,46"/>
-<area shape="rect" id="node6" href="$classchaiscript_1_1Boxed__Value.html#a7153d6e5d94e41918542398730cf7e0b" title="chaiscript::Boxed_Value\l::get_type_info" alt="" coords="640,70,803,111"/>
-<area shape="rect" id="node5" href="$structchaiscript_1_1detail_1_1Cast__Helper__Inner.html#a078f545ed687f24b142051da5cea3768" title="chaiscript::detail\l::Cast_Helper_Inner::cast" alt="" coords="851,5,1023,46"/>
-</map>

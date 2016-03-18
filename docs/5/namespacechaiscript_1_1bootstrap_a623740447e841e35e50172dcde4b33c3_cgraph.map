@@ -1,7 +1,0 @@
-<map id="chaiscript::bootstrap::ptr_assign" name="chaiscript::bootstrap::ptr_assign">
-<area shape="rect" id="node2" href="$classchaiscript_1_1Boxed__Value.html#ae242dd6512101978f9e34e35e936492a" title="return true if the object is uninitialized " alt="" coords="195,5,357,46"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1Boxed__Value.html#a7153d6e5d94e41918542398730cf7e0b" title="chaiscript::Boxed_Value\l::get_type_info" alt="" coords="195,70,357,111"/>
-<area shape="rect" id="node4" href="$classchaiscript_1_1Type__Info.html#a2a0e15ba3bfb7653f5cd00079ccfce58" title="chaiscript::Type_Info\l::is_const" alt="" coords="204,135,348,177"/>
-<area shape="rect" id="node5" href="$classchaiscript_1_1Type__Info.html#a7c407284e31cdc019428bac9286effe6" title="chaiscript::Type_Info\l::bare_equal" alt="" coords="204,201,348,242"/>
-<area shape="rect" id="node6" href="$classchaiscript_1_1Boxed__Value.html#a50da52ef137a62699106c0d3cf1cf9b4" title="chaiscript::Boxed_Value\l::assign" alt="" coords="195,266,357,307"/>
-</map>

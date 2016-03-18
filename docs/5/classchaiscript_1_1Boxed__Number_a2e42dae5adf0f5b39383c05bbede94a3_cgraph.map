@@ -1,6 +1,0 @@
-<map id="chaiscript::Boxed_Number::greater_than" name="chaiscript::Boxed_Number::greater_than">
-<area shape="rect" id="node2" href="$namespacechaiscript.html#affc64acef83f5f5a06239d41d297ee9c" title="Function for extracting a value stored in a Boxed_Value object. " alt="" coords="230,45,383,72"/>
-<area shape="rect" id="node3" href="$structchaiscript_1_1detail_1_1Cast__Helper.html#a8e7f79db51b985c3b6a2ffb1a1a3dce4" title="chaiscript::detail\l::Cast_Helper::cast" alt="" coords="445,5,581,46"/>
-<area shape="rect" id="node5" href="$classchaiscript_1_1Boxed__Value.html#a7153d6e5d94e41918542398730cf7e0b" title="chaiscript::Boxed_Value\l::get_type_info" alt="" coords="432,70,595,111"/>
-<area shape="rect" id="node4" href="$structchaiscript_1_1detail_1_1Cast__Helper__Inner.html#a078f545ed687f24b142051da5cea3768" title="chaiscript::detail\l::Cast_Helper_Inner::cast" alt="" coords="643,5,815,46"/>
-</map>

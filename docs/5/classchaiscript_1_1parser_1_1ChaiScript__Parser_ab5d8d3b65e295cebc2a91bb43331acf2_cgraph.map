@@ -1,6 +1,0 @@
-<map id="chaiscript::parser::ChaiScript_Parser::Single_Quoted_String_" name="chaiscript::parser::ChaiScript_Parser::Single_Quoted_String_">
-<area shape="rect" id="node2" href="$classchaiscript_1_1parser_1_1ChaiScript__Parser.html#a03529a9715917548947f7f4da22794c0" title="Check to see if there is more text parse. " alt="" coords="619,25,755,81"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1parser_1_1ChaiScript__Parser.html#a527cb02ae45b3dfe174c4b5f40cd5c48" title="Reads an end&#45;of&#45;line group from input, without skipping initial whitespace. " alt="" coords="216,70,387,111"/>
-<area shape="rect" id="node4" href="$classchaiscript_1_1parser_1_1ChaiScript__Parser.html#afda889135a1560eaa137519736773700" title="Reads a symbol group from input if it matches the parameter, without skipping initial whitespace..." alt="" coords="435,91,571,147"/>
-<area shape="rect" id="node5" href="$classchaiscript_1_1parser_1_1ChaiScript__Parser.html#a9c52c197d862b501eab676229771c7e2" title="Reads a char from input if it matches the parameter, without skipping initial whitespace. " alt="" coords="435,171,571,227"/>
-</map>

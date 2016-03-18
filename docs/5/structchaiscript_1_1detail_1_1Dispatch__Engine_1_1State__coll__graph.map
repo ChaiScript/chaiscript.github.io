@@ -1,9 +1,0 @@
-<map id="chaiscript::detail::Dispatch_Engine::State" name="chaiscript::detail::Dispatch_Engine::State">
-<area shape="rect" id="node4" title="STL class. " alt="" coords="158,76,274,103"/>
-<area shape="rect" id="node8" title="STL class. " alt="" coords="468,193,591,220"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="489,352,569,379"/>
-<area shape="rect" id="node7" title="STL class. " alt="" coords="153,345,279,386"/>
-<area shape="rect" id="node12" title="STL class. " alt="" coords="480,472,579,499"/>
-<area shape="rect" id="node14" href="$classchaiscript_1_1Type__Info.html" title="Compile time deduced information about a type. " alt="" coords="457,96,601,123"/>
-<area shape="rect" id="node16" href="$classchaiscript_1_1Boxed__Value.html" title="A wrapper for holding any valid C++ type. All types in ChaiScript are Boxed_Value objects..." alt="" coords="448,593,611,620"/>
-</map>

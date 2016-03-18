@@ -1,5 +1,0 @@
-<map id="chaiscript::Type_Conversions::add_conversion" name="chaiscript::Type_Conversions::add_conversion">
-<area shape="rect" id="node2" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#a806407e3f0c85fd0f6d6f8db296ef7ef" title="Add a new conversion for upcasting to a base class. " alt="" coords="249,5,407,46"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1ChaiScript.html#a8e9351d918288cf1f71aaf71cc7ae1f9" title="Adds a type, function or object to ChaiScript. Objects are added to the local thread state..." alt="" coords="456,12,632,39"/>
-<area shape="rect" id="node4" href="$classchaiscript_1_1ChaiScript.html#a85fc7015fc228d36ad806326a90c04b7" title="Load a binary module from a dynamic library. Works on platforms that support dynamic libraries..." alt="" coords="680,5,827,46"/>
-</map>

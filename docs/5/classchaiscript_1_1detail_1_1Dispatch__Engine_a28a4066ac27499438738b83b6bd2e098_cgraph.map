@@ -1,5 +1,0 @@
-<map id="chaiscript::detail::Dispatch_Engine::get_function_objects" name="chaiscript::detail::Dispatch_Engine::get_function_objects">
-<area shape="rect" id="node2" href="$namespacechaiscript.html#a762c1923df6b87198036c01cf824cb53" title="Creates a new Proxy_Function object from a free function, member function or data member..." alt="" coords="228,5,332,32"/>
-<area shape="rect" id="node3" href="$namespacechaiscript.html#af4f2de09723af9248cb1a8a34242ace7" title="Takes an object and returns an immutable Boxed_Value. If the object is a std::reference or pointer ty..." alt="" coords="209,56,351,83"/>
-<area shape="rect" id="node4" href="$namespacechaiscript_1_1detail.html#adfc0e50cd2f120efa976f418060274dd" title="Takes a value, copies it and returns a Boxed_Value object that is immutable. " alt="" coords="401,49,519,90"/>
-</map>

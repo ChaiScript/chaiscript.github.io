@@ -1,8 +1,0 @@
-<map id="chaiscript::eval::detail::Function_Push_Pop::save_params" name="chaiscript::eval::detail::Function_Push_Pop::save_params">
-<area shape="rect" id="node2" href="$structchaiscript_1_1eval_1_1Binary__Operator__AST__Node.html#abdebdf09e56d702192c659441db3e8ad" title="chaiscript::eval::Binary\l_Operator_AST_Node::do_oper" alt="" coords="289,13,493,54"/>
-<area shape="rect" id="node4" href="$structchaiscript_1_1eval_1_1Fun__Call__AST__Node.html#a8cb626eec09db9ff3a91255728e6e19c" title="chaiscript::eval::Fun\l_Call_AST_Node::eval\l_internal" alt="" coords="313,77,468,133"/>
-<area shape="rect" id="node5" href="$structchaiscript_1_1eval_1_1Array__Call__AST__Node.html#a1a9217b2361a6ccc02fe5835081ae413" title="chaiscript::eval::Array\l_Call_AST_Node::eval_internal" alt="" coords="289,157,493,198"/>
-<area shape="rect" id="node6" href="$structchaiscript_1_1eval_1_1Dot__Access__AST__Node.html#aee3a425324f29ee2c483e7fead705841" title="chaiscript::eval::Dot\l_Access_AST_Node::eval\l_internal" alt="" coords="303,221,479,277"/>
-<area shape="rect" id="node7" href="$structchaiscript_1_1eval_1_1Prefix__AST__Node.html#ad1d79178bb7e664fc73207b0aab3ed01" title="chaiscript::eval::Prefix\l_AST_Node::eval_internal" alt="" coords="303,301,478,342"/>
-<area shape="rect" id="node3" href="$structchaiscript_1_1eval_1_1Binary__Operator__AST__Node.html#afdfefea5c782ff8e4ee1e651492bb4f2" title="chaiscript::eval::Binary\l_Operator_AST_Node::eval\l_internal" alt="" coords="542,5,725,61"/>
-</map>

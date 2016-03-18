@@ -1,6 +1,0 @@
-<map id="chaiscript::Boxed_Value::is_undef" name="chaiscript::Boxed_Value::is_undef">
-<area shape="rect" id="node2" href="$namespacechaiscript_1_1bootstrap.html#a623740447e841e35e50172dcde4b33c3" title="chaiscript::bootstrap\l::ptr_assign" alt="" coords="234,5,374,46"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1bootstrap_1_1Bootstrap.html#a7405aaf55bc4d3123483513f665f8a7d" title="perform all common bootstrap functions for std::string, void and POD types " alt="" coords="441,34,589,75"/>
-<area shape="rect" id="node4" href="$structchaiscript_1_1eval_1_1Id__AST__Node.html#aa16514c225ad4c6503c58f86ff245800" title="chaiscript::eval::Id\l_AST_Node::eval_internal" alt="" coords="217,122,391,163"/>
-<area shape="rect" id="node5" href="$structchaiscript_1_1eval_1_1Equation__AST__Node.html#ae24e01084e4bb10fcb757275fcb548cf" title="chaiscript::eval::Equation\l_AST_Node::eval_internal" alt="" coords="217,187,391,229"/>
-</map>

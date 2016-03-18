@@ -1,6 +1,0 @@
-<map id="chaiscript::Boxed_Value::is_pointer" name="chaiscript::Boxed_Value::is_pointer">
-<area shape="rect" id="node2" href="$classchaiscript_1_1bootstrap_1_1Bootstrap.html#a7405aaf55bc4d3123483513f665f8a7d" title="perform all common bootstrap functions for std::string, void and POD types " alt="" coords="223,5,371,46"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1detail_1_1Dynamic__Caster.html#ae11fbe794ac65b8aa9e5661482ad0ade" title="chaiscript::detail\l::Dynamic_Caster::cast" alt="" coords="217,70,378,111"/>
-<area shape="rect" id="node4" href="$classchaiscript_1_1detail_1_1Dynamic__Conversion__Impl.html#aea9c2487662d43e14ea419daf7ac04ce" title="chaiscript::detail\l::Dynamic_Conversion\l_Impl::convert_down" alt="" coords="427,23,581,79"/>
-<area shape="rect" id="node5" href="$classchaiscript_1_1detail_1_1Dynamic__Conversion__Impl.html#aa07864b59e813cc8f6e20f34db6c5b66" title="chaiscript::detail\l::Dynamic_Conversion\l_Impl::convert" alt="" coords="427,103,581,159"/>
-</map>

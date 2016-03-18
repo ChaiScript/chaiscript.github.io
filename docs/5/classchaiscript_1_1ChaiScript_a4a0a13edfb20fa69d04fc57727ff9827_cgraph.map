@@ -1,7 +1,0 @@
-<map id="chaiscript::ChaiScript::eval_file" name="chaiscript::ChaiScript::eval_file">
-<area shape="rect" id="node2" href="$classchaiscript_1_1detail_1_1Dispatch__Engine.html#af50124995a5e5a2b9ada7773bb67727c" title="casts an object while applying any Dynamic_Conversion available " alt="" coords="201,38,405,79"/>
-<area shape="rect" id="node3" href="$namespacechaiscript.html#affc64acef83f5f5a06239d41d297ee9c" title="Function for extracting a value stored in a Boxed_Value object. " alt="" coords="454,45,607,72"/>
-<area shape="rect" id="node4" href="$structchaiscript_1_1detail_1_1Cast__Helper.html#a8e7f79db51b985c3b6a2ffb1a1a3dce4" title="chaiscript::detail\l::Cast_Helper::cast" alt="" coords="669,5,805,46"/>
-<area shape="rect" id="node6" href="$classchaiscript_1_1Boxed__Value.html#a7153d6e5d94e41918542398730cf7e0b" title="chaiscript::Boxed_Value\l::get_type_info" alt="" coords="656,70,819,111"/>
-<area shape="rect" id="node5" href="$structchaiscript_1_1detail_1_1Cast__Helper__Inner.html#a078f545ed687f24b142051da5cea3768" title="chaiscript::detail\l::Cast_Helper_Inner::cast" alt="" coords="867,5,1039,46"/>
-</map>

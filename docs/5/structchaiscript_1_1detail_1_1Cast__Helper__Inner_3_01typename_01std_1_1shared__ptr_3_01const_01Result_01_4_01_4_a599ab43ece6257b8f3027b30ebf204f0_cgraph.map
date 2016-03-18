@@ -1,6 +1,0 @@
-<map id="chaiscript::detail::Cast_Helper_Inner&lt; typename std::shared_ptr&lt; const Result &gt; &gt;::cast" name="chaiscript::detail::Cast_Helper_Inner&lt; typename std::shared_ptr&lt; const Result &gt; &gt;::cast">
-<area shape="rect" id="node2" href="$classchaiscript_1_1Boxed__Value.html#a7153d6e5d94e41918542398730cf7e0b" title="chaiscript::Boxed_Value\l::get_type_info" alt="" coords="253,5,416,46"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1Type__Info.html#a2a0e15ba3bfb7653f5cd00079ccfce58" title="chaiscript::Type_Info\l::is_const" alt="" coords="263,70,407,111"/>
-<area shape="rect" id="node4" href="$classchaiscript_1_1Boxed__Value.html#aa36f324cfad8116e2e0fbabcec49d049" title="chaiscript::Boxed_Value::get" alt="" coords="240,136,429,163"/>
-<area shape="rect" id="node5" href="$classchaiscript_1_1detail_1_1Any.html#afed97781fb8847f6420d5cd47b700859" title="chaiscript::detail\l::Any::cast" alt="" coords="276,187,393,229"/>
-</map>

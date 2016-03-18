@@ -1,9 +1,0 @@
-<map id="chaiscript::Std_Lib::library" name="chaiscript::Std_Lib::library">
-<area shape="rect" id="node2" href="$namespacechaiscript_1_1bootstrap_1_1standard__library.html#a0fedd9ccd856e89114b43fcbd9068da4" title="chaiscript::bootstrap\l::standard_library::vector_type" alt="" coords="185,5,383,46"/>
-<area shape="rect" id="node3" href="$namespacechaiscript.html#a762c1923df6b87198036c01cf824cb53" title="Creates a new Proxy_Function object from a free function, member function or data member..." alt="" coords="456,129,560,156"/>
-<area shape="rect" id="node4" href="$namespacechaiscript_1_1bootstrap_1_1standard__library.html#a2fd9da4dd407d715aad55a9329a5e299" title="chaiscript::bootstrap\l::standard_library::map_type" alt="" coords="191,122,377,163"/>
-<area shape="rect" id="node5" href="$namespacechaiscript_1_1bootstrap_1_1standard__library.html#a6dde86234ee49fffb84674986c046b4a" title="chaiscript::bootstrap\l::standard_library::pair_type" alt="" coords="193,253,375,294"/>
-<area shape="rect" id="node8" href="$namespacechaiscript_1_1bootstrap_1_1standard__library.html#a385e5f9447776a9ff1aeef30cff3cd5d" title="chaiscript::bootstrap\l::standard_library::future_type" alt="" coords="187,187,381,229"/>
-<area shape="rect" id="node6" href="$namespacechaiscript.html#a4c163e3599e8cc01f144338b99944fe0" title="Generates a constructor function for use with ChaiScript. " alt="" coords="433,260,583,287"/>
-<area shape="rect" id="node7" href="$namespacechaiscript_1_1dispatch_1_1detail.html#aad70406bb713631c115da4427dc5036f" title="chaiscript::dispatch\l::detail::build_constructor_" alt="" coords="633,253,807,294"/>
-</map>

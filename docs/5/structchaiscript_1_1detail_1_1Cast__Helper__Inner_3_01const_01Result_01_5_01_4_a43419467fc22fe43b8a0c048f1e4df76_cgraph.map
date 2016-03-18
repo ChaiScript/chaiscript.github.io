@@ -1,7 +1,0 @@
-<map id="chaiscript::detail::Cast_Helper_Inner&lt; const Result * &gt;::cast" name="chaiscript::detail::Cast_Helper_Inner&lt; const Result * &gt;::cast">
-<area shape="rect" id="node2" href="$classchaiscript_1_1Boxed__Value.html#a0cdc9385e1ab153abe862f46418e7abb" title="chaiscript::Boxed_Value\l::is_ref" alt="" coords="229,5,392,46"/>
-<area shape="rect" id="node3" href="$classchaiscript_1_1Boxed__Value.html#a7153d6e5d94e41918542398730cf7e0b" title="chaiscript::Boxed_Value\l::get_type_info" alt="" coords="229,70,392,111"/>
-<area shape="rect" id="node4" href="$classchaiscript_1_1Type__Info.html#a2a0e15ba3bfb7653f5cd00079ccfce58" title="chaiscript::Type_Info\l::is_const" alt="" coords="239,135,383,177"/>
-<area shape="rect" id="node5" href="$classchaiscript_1_1Boxed__Value.html#aa36f324cfad8116e2e0fbabcec49d049" title="chaiscript::Boxed_Value::get" alt="" coords="216,201,405,228"/>
-<area shape="rect" id="node6" href="$classchaiscript_1_1detail_1_1Any.html#afed97781fb8847f6420d5cd47b700859" title="chaiscript::detail\l::Any::cast" alt="" coords="252,253,369,294"/>
-</map>
